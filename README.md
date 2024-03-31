@@ -37,6 +37,3 @@ The project employs a series of SQL queries to explore various aspects of the CO
 ## Future Steps
 
 - **Creating Views:** For more efficient data handling and analysis, creating views will organize frequently used queries and datasets.
-- **Expanded Analysis:** Incorporating additional datasets and variables, such as socio-economic factors, to enrich the analysis.
-
-This README outlines the project's scope, methodologies, and findings, offering a structured overview for stakeholders interested in understanding the analytical processes and insights derived from COVID-19 data analysis.
