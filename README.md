@@ -37,3 +37,6 @@ The project employs a series of SQL queries to explore various aspects of the CO
 ## Future Steps
 
 - **Creating Views:** For more efficient data handling and analysis, creating views will organize frequently used queries and datasets.
+
+## Visualizations
+[https://public.tableau.com/app/profile/sunny.hardyal/viz/Covid-Exploration/Dashboard1?publish=yes]
